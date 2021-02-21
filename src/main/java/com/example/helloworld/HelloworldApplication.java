@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author zxz
+ * 程序主入口
+ * 本身为一个组件
  */
+
 @SpringBootApplication
 public class HelloworldApplication {
 
